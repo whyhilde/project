@@ -10,7 +10,7 @@
 #define _(STRING) gettext(STRING)
 #define INIT() \
   setlocale(LC_ALL, ""); \
-  bindtextdomain("main", "/usr/share/locale/"); \
-  textdomain("main");
+  bindtextdomain("project", "/usr/share/locale/"); \
+  textdomain("project");
 
 #endif

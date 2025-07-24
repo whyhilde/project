@@ -8,6 +8,5 @@ int main()
 {
   INIT();
 
-  printf(_("Hello world!"));
   return 0;
 }
