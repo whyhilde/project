@@ -1,9 +1,13 @@
-#include "include/func.h"
+// Copyright (c) 2025 whyhilde, sakuyma1337
+// SPDX-License-Identifier: MIT
 
-#include <stdio.h>
+
+#include "include/config.h"
 
 int main()
 {
-  printhello(40);
+  INIT();
+
+  printf(_("Hello world!"));
   return 0;
 }

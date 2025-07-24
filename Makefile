@@ -1,3 +1,7 @@
+# Copyright (c) 2025 whyhilde, sakuyma1337
+# SPDX-License-Identifier: MIT
+
+
 APP_NAME = app
 
 
