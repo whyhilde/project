@@ -1,14 +1,13 @@
 // Copyright (c) 2025 whyhilde, sakuyma
 // SPDX-License-Identifier: MIT
 
-#include <stdio.h>
 
-#include "include/config.h"
+#include "../include/config.h"
+
 
 int main()
 {
-  INIT();
+  INIT()
 
-  printf(_("Hello world \n"));
   return 0;
 }

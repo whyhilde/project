@@ -1,5 +1,5 @@
-./backup/
-./obj/
-./local/*
+./backup/*
+./obj/*
+./bin/*
 
-./program
+./.vscode
